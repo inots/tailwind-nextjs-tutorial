@@ -25,7 +25,7 @@ export default function Home() {
       <br></br> from my Camera Roll</h1>
       <br></br>
       {Animals.map(data =>(
-          <div className="relative w-32 h-32 overflow-hidden rounded-full ring-2 ring-red-500 ring-offset-4">
+        <div className="relative w-32 h-32 overflow-hidden rounded-full ring-2 ring-red-500 ring-offset-4">
 
           <Image
           objectFit='cover'
