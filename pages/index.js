@@ -37,6 +37,7 @@ export default function Home() {
           <br></br>
           <br></br>
         </div>
+        <br/>
       ))}
         
     </div>
