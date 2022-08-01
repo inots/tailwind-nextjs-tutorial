@@ -13,8 +13,8 @@ import react from "react";
 export default function Home() {
   const Animals = [
     {name: dog1},
-    {name: bird},
-    {name: dog2},
+//     {name: bird},
+//     {name: dog2},
     {name: goats},
     {name: dog3},
     {name: turkey}
